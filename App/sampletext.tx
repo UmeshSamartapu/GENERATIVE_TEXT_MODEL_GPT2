@@ -1,0 +1,37 @@
+✨ General Prompts (Good for Both GPT-2 & LSTM)
+"The future of artificial intelligence is"
+"Once upon a time in a quiet village,"
+"The sun was setting behind the mountains when"
+"In the heart of the city, there lived a man who"
+"Education is the most powerful tool because"
+"On a stormy night, a strange knock came at the door."
+"The secret to happiness lies in"
+"When technology and nature combine,"
+"I opened the old book and found a letter that said"
+"The spaceship landed on a distant planet and"
+
+💡 LSTM-Specific Prompts
+(Since LSTM models are trained on Hamlet, keep the tone poetic or dramatic.)
+"To be or not to be, that is"
+"O, what a noble mind is here"
+"Thou art more lovely and more"
+"The king hath spoken of"
+"Dost thou hear the winds of"
+"Speak the truth, and thou shalt"
+"My lord, the hour is late, and"
+"Fear not the shadows, for they"
+"He comes bearing news of"
+"By my troth, I saw the ghost of"
+
+🔮 GPT-2-Specific Prompts
+(GPT-2 handles modern language, so use casual or informative starters.)
+"How to build a website using HTML and CSS"
+"The benefits of daily meditation include"
+"Top 5 ways to stay productive while working from home"
+"Why space exploration is important for humanity"
+"Artificial intelligence is changing the world by"
+"The most exciting part about learning to code is"
+"In 2050, the world will look like"
+"The biggest challenge in climate change is"
+"Tips for maintaining a healthy lifestyle"
+"Here's what no one tells you about starting a business:"
