@@ -35,10 +35,6 @@ Create text generation models using:
 ```bash
 pip install -r requirements.txt
 ```
-### 
-```bash
-
-```
 
 # 📂 Directory Structure
 ```bash
