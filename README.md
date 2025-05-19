@@ -118,7 +118,7 @@ tensorflow==2.12.0
 - "O, what a noble mind is here..."
 
 ## Demo 
-### You can watch the ([youtube video]( )) for demo
+### You can watch the ([youtube video](https://youtu.be/sp_MWU5y8ZU)) for demo
 <p align="center">
   <img src="https://github.com/UmeshSamartapu/GENERATIVE_TEXT_MODEL_GPT2/blob/main/App/Input/TextgenwithGPT2-Demo.gif" />
 </p>  
