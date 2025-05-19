@@ -1,6 +1,7 @@
 # GENERATIVE_TEXT_MODEL 🚀
 
-![Preview image](https: )
+![Frontend](https://github.com/UmeshSamartapu/GENERATIVE_TEXT_MODEL_GPT2/blob/main/App/Input/TextgenwithGPT2-Frontend.png)
+
 
 ## Overview
 
@@ -119,7 +120,7 @@ tensorflow==2.12.0
 ## Demo 
 ### You can watch the ([youtube video]( )) for demo
 <p align="center">
-  <img src="  " />
+  <img src="https://github.com/UmeshSamartapu/GENERATIVE_TEXT_MODEL_GPT2/blob/main/App/Input/TextgenwithGPT2-Demo.gif" />
 </p>  
 
 
