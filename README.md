@@ -1,4 +1,4 @@
-# GENERATIVE_TEXT_MODEL 🚀
+# GENERATIVE_TEXT_MODEL 
 
 ![Frontend](https://github.com/UmeshSamartapu/GENERATIVE_TEXT_MODEL_GPT2/blob/main/App/Input/TextgenwithGPT2-Frontend.png)
 
